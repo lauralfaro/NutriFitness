@@ -4,4 +4,7 @@
     <string name="contrase_a">Contraseña</string>
     <string name="iniciar_sesi_n">Iniciar Sesión</string>
     <string name="registrarse">Registrarse</string>
+    <string name="correo_electr_nico">Correo Electrónico</string>
+    <string name="anterior">Anterior</string>
+    <string name="siguiente">Siguiente</string>
 </resources>
