@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">NutriFitness</string>
-    <string name="iniciar_sesi_n">Iniciar Sesión</string>
     <string name="nombre">Nombre</string>
     <string name="contrase_a">Contraseña</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="registrarse">Registrarse</string>
 </resources>
