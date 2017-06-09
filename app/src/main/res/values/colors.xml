@@ -8,4 +8,5 @@
     <color name="fondo">#FF8A65</color>
     <color name="fondoTextoNombre">#FFFFFF</color>
     <color name="fondoBotonCalcular">#BDBDBD</color>
+    <color name="fondoMenu">#B3E5FC</color>
 </resources>
