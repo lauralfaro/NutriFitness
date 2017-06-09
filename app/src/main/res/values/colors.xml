@@ -7,4 +7,5 @@
     <color name="fondoBoton">#03A9F4</color>
     <color name="fondo">#FF8A65</color>
     <color name="fondoTextoNombre">#FFFFFF</color>
+    <color name="fondoBotonCalcular">#BDBDBD</color>
 </resources>
