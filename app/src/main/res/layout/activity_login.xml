@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/fondo"
-    tools:context="una.ac.cr.nutrifitness.MainActivity">
+    tools:context="una.ac.cr.nutrifitnessv2.MainActivity">
     <!--tools:context="activities.LoginActivities">-->
 
     <android.support.v7.widget.LinearLayoutCompat
