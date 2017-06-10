@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/fondoInfo"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/titulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.13"
+        android:background="@color/fondo"
+        android:textColor="@color/fondoTextoNombre"
+        android:textSize="20dp"
+        android:paddingLeft="120dp"
+        android:text="@string/titulo_suplementos"/>
+
+    <TextView
+        android:id="@+id/carbohidrato1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/MixBrush"
+        android:textColor="@color/colorText"
+        android:text="@string/pantalla_19"
+        android:textSize="20dp"
+        android:layout_weight="0.91" />
+
+    <Button
+        android:id="@+id/anterior"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/fondoBoton"
+        android:textColor="@color/fondoTextoNombre"
+        android:textSize="15dp"
+        android:text="Anterior" />
+
+</LinearLayout>
