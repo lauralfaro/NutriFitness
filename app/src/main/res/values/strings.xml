@@ -7,4 +7,68 @@
     <string name="correo_electr_nico">Correo Electrónico</string>
     <string name="anterior">Anterior</string>
     <string name="siguiente">Siguiente</string>
+    <string name="calcular">Calcular</string>
+    <string name="biceps">Biceps</string>
+    <string name="piernas">Piernas</string>
+    <string name="abdomen">Abdomen</string>
+    <string name="titulo_carbohidratos">Carbohidratos</string>
+    <string name="titulo_proteinas">Proteínas</string>
+    <string name="titulo_suplementos">Suplementos</string>
+    <string name="titulo_rutinas">Rutinas de Entrenamiento</string>
+    <string name="pantalla_11">1. Carbohidratos Buenos.
+    \n\n Proporcionan al organismo vitaminas esenciales, minerales y una larga lista de importantes fitonutrientes. Son ricos en fibra, ya que proveen al cuerpo los nutrientes y energía que necesita.
+    \n\n- Arroz Integral.
+    \n- Pasta de grano entero.
+    \n- Nueces crudas y semillas.
+    \n- Frijoles, alubias y legumbres.
+    \n- Lentejas.
+    \n- Cereales de grano entero.
+    \n- Verduras.
+    </string>
+    <string name="pantalla_12">1. Carbohidratos Malos.
+    \n\nProporcionan al organismo vitaminas esenciales, minerales y una larga lista de importantes fitonutrientes. Son ricos en fibra, que proveen al cuerpo los nutrientes y energía que necesita.
+    \n\n- Pan Blanco.
+    \n- Pasta Blanca.
+    \n- Productos de Panadería Dulces.
+    \n- Arroz Blanco.
+    \n- Golosinas, Jalea y Confituras.
+    \n- Papas fritas, alcohol, gaseosas.
+    \n- Cereales Refinados.
+    </string>
+    <string name="pantalla_13">Son moléculas estratégicas en una dieta sana, ya que hacen posible el correcto desarrollo de nuestro organismo.
+        \n\nFunciones:
+        \n\n- Son esenciales para el crecimiento, las grasas y los carbohidratos no las pueden sustituir por no tener nitrógeno.
+        \n\n- Proporcionan los aminoácidos esenciales fundamentales para la síntesis tisular.
+    </string>
+    <string name="pantalla_14">- Son materia prima para la formación de los jugos digestivos, hormonas, proteínas, hemoglobina, vitaminas y enzimas.
+         \n\n- Funcionan como amortiguadores, ayudando a mantener la reacción de diversos medios como el plasma.
+         \n\n- El colágeno es la principal proteína integrante de los tejidos de sostén.
+         \n\n- Actúan como defensa, los anticuerpos son proteínas de defensa natural contra infecciones o agentes extraños.
+    </string>
+    <string name="pantalla_15">Lista de Proteínas
+        \n\n- Queso Parmesano.
+        \n- Huevos.
+        \n- Cacahuetes y pistachos.
+        \n- Pescado y bacalao.
+        \n- Soja rica en proteínas.
+        \n- Langostinos.
+        \n- Leche.
+        \n- Pasta.
+        \n- Carnes: pollo, jamón, pavo, carnes de res, cerdo.
+        \n- Productos Lacteos.
+        \n- Arroz.
+    </string>
+    <string name="pantalla_16">1. Creatina
+         \n \nEs un aminoácido presente en las fibras musculares y el cerebro. Promueve el aumento de la capacidad de raciocinio y concentración, capacidad aeróbica, anaeróbica, retrasa la fatiga muscular y acelera la recuperación. Es el suplemento nutricional más eficaz para aumentar el rendimiento físico y la masa magra durante los entrenos.
+    </string>
+    <string name="pantalla_17">2. Gainers
+        \n\nBuscan ganancias de masa muscular, especialmente aquellos con dificultad de ganar peso.
+    </string>
+    <string name="pantalla_18">3. Sustitutos de Comida
+        \n\nProvee una comida completa y práctica con proporciones de macronutrientes y calorías exactas para sustituir los alimentos de una comida equilibrada. Permiten comidas prácticas y nutritivas, además de poseer macronutrientes de alta calidad, también son reforzados con vitaminas y minerales.
+    </string>
+    <string name="pantalla_19">4. Aminoácidos / BCAA
+        \n\nBloques básicos que componen las proteínas. Son una forma adecuada de asegurar las cantidades mínimas diarias de proteína que el organismo de los atletas necesita.
+BCAA son aminoácidos de cadena ramificada: leucina, isoleucina y valina. Son esenciales para la reparación y crecimiento muscular.
+    </string>
 </resources>
